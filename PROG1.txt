@@ -1,0 +1,10 @@
+lámpara https://dle.rae.es/l%C3%A1mpara?m=form
+cañería https://dle.rae.es/ca%C3%B1er%C3%ADa?m=form
+pelota https://dle.rae.es/pelota?m=form
+camión https://dle.rae.es/cami%C3%B3n?m=form
+saxofón https://dle.rae.es/saxof%C3%B3n?m=form
+ordenador https://dle.rae.es/ordenador?m=form
+persona https://dle.rae.es/persona?m=form
+pastor https://dle.rae.es/pastor?m=form
+jardín https://dle.rae.es/jard%C3%ADn?m=form
+lápiz https://dle.rae.es/l%C3%A1piz?m=form

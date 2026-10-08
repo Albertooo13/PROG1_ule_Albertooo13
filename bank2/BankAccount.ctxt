@@ -1,0 +1,13 @@
+#BlueJ class context
+#Thu Oct 08 11:56:21 CEST 2026
+comment0.target=BankAccount
+comment1.params=owner
+comment1.target=BankAccount(Person)
+comment2.params=owner money
+comment2.target=BankAccount(Person, int)
+comment3.params=money
+comment3.target=void deposit(int)
+comment4.params=money
+comment4.target=void withdraw(int)
+comment5.target=java.lang.String toString()
+numComments=6

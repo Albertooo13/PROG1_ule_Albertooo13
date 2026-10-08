@@ -1,12 +1,4 @@
 
-
-//EJERCICIO1
-
-/*Se pide modificar el código a fin de eliminar los errores de compilación existentes. Los errores de
-compilación tienen que ver con el manejo de tipos de datos básicos. Las modificaciones se
-realizarán sobre el método ejercicio01() de la clase Apartado030101.
-*/
-
 import java.math.BigDecimal;
 
 public void ejercicio01() {
